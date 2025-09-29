@@ -138,6 +138,7 @@ Mở trình duyệt vào http://localhost:3000 (hoặc port hiển thị trên t
 
 6) Kiểm tra
    - Đăng ký/đăng nhập, tạo sách, thực hiện yêu cầu mượn/trả, duyệt mượn/trả bằng admin.
-
+   - Tài khoản admin: adminLiba/adminLiba
 ---
+
 
